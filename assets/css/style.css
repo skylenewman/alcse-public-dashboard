@@ -1,0 +1,13 @@
+#alcse-public-dashboard
+{
+  text-align: center;
+}
+#alcse-public-dashboard img,
+#alcse-public-dashboard svg
+{
+  cursor: pointer;
+}
+#alcse-public-dashboard h3 strong
+{
+  display:block;
+}

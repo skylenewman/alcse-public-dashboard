@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60" xml:space="preserve" data-shift="xy" data-animoptions="{'duration':'3', 'repeat':'0', 'repeatDelay':'0'}" preserveAspectRatio="xMinYMin meet" style="left: 0px; top: 0px;"><g class="lievo-setrotation"><g class="lievo-setsharp"><g class="lievo-setflip"><g class="lievo-main">
+  <g class="lievo-common">
+    <g data-svg-origin="30 30" style="transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform-origin: 0px 0px 0px;">
+      <path fill="#ffcf4b" stroke="#f5ae3d" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M30,18c6.63,0,12,5.37,12,12c0,6.63-5.37,12-12,12s-12-5.37-12-12C18,23.37,23.37,18,30,18z" style="stroke: rgb(245, 174, 61); fill: rgb(255, 207, 75);"></path>
+
+      <path class="lievo-altstroke" fill="none" stroke="#f5ae3d" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M30,14V7M46.26,13.74l-4.95,4.95 M53,30l-7,0 M41.31,41.31l4.95,4.95 M30,53l0-7 M13.74,46.26l4.95-4.95 M7,30h7 M18.69,18.69l-4.95-4.95" data-original="M30,14V7M46.26,13.74l-4.95,4.95 M53,30l-7,0 M41.31,41.31l4.95,4.95 M30,53l0-7 M13.74,46.26l4.95-4.95 M7,30h7 M18.69,18.69l-4.95-4.95" style="stroke: rgb(245, 174, 61);"></path>
+    </g>
+  </g>
+  <rect x="-20" y="-20" width="4" height="4" fill="none" stroke="#ffffff" style="stroke-width: 2; stroke-linecap: butt; stroke-linejoin: round; opacity: 0;" class="lievo-checkshift lievo-donotdraw lievo-nohoverstroke lievo-nohovercolor"></rect></g></g></g></g>
+
+  <desc>LivIcons Evolution</desc>
+  <defs>
+  </defs>
+</svg>
